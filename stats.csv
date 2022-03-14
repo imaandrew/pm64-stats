@@ -1,4 +1,4 @@
-Enemy Type,Area,Level,HP,Coins,Run,Fright,Air Lift,Hurricane/Spook,Up & Away,Power Bounce,Star Storm,Normal,Unk1,Unk1_turns,Sleep,Sleep_turns,Poison,Poison_turns,Frozen,Frozen_turns,Dizzy,Dizzy_turns,Unk2,Unk2_turns,Electric,Electric_turns,Paralyze,Paralyze_turns,Shrink,Shrink_turns,Stop,Stop_turns,Neut,Fire,Water,Ice,?,Magic,Jump,Ham.,Star,Blast,Elec,Quake,Throw
+Enemy Type,Area,Level,HP,Coins,Run,Fright,Air Lift,Hurricane/Spook,Up & Away,Power Bounce,Spin Smash,Normal,Unk1,Unk1_turns,Sleep,Sleep_turns,Poison,Poison_turns,Frozen,Frozen_turns,Dizzy,Dizzy_turns,Unk2,Unk2_turns,Electric,Electric_turns,Paralyze,Paralyze_turns,Shrink,Shrink_turns,Stop,Stop_turns,Neut,Fire,Water,Ice,?,Magic,Jump,Ham.,Star,Blast,Elec,Quake,Throw
 Goomba,0,5,2,1,90,100,100,90,95,100,0,0,0,3,100,3,100,3,100,3,100,3,100,3,100,3,100,3,100,3,100,3,0,--,--,--,--,--,--,--,--,--,--,--,--
 Paragoomba,0,6,2,1,90,100,100,100,95,100,0,0,0,3,100,3,100,3,100,3,100,3,100,3,100,3,100,3,100,3,100,3,0,--,--,--,--,--,--,--,--,--,--,--,--
 Paragoomba,0,6,2,1,90,100,100,100,95,100,0,0,0,3,100,3,80,3,100,3,100,4,80,3,80,3,100,3,100,3,100,3,0,--,--,--,--,--,--,--,--,--,--,--,--
